@@ -10,6 +10,7 @@ __pycache__/
 
 # Environment Variables & Secrets
 .env
+!.env.example
 
 # Streamlit
 .streamlit/
