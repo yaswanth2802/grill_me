@@ -1,0 +1,22 @@
+# Python / Virtual Environments
+.venv/
+env/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# Environment Variables & Secrets
+.env
+
+# Streamlit
+.streamlit/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Logs & Output
+*.log
